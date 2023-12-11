@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //return 0;
+//}
+
+   PacienteLista *lista = cria_lista();
+
+    // Teste de inserção manual
+    inserir_lista(lista, 1, 25, "Maria", "123.456.789-01");
+    inserir_lista(lista, 2, 30, "João", "987.654.321-09");
+
+    // Teste de inserção usando a função gerar_paciente
+    for (int i = 0; i < 3; ++i) {
+        PacienteNo *novoPaciente = gerar_paciente();
+        inserir_lista(lista, novoPaciente->id, novoPaciente->idade, novoPaciente->nome, novoPaciente->cpf);
+        free(novoPaciente);  // Libera o paciente após a inserção
+    }
+
+    // Exibe a lista de pacientes
+    printf("Lista de Pacientes:\n");
+    listar_pacientes(lista);
+
+    // Exibe o tamanho da lista
+    printf("\nTamanho da Lista: %d\n", tamanho_lista(lista));
+
+    // Libera a memória alocada pela lista de pacientes
+    liberar_paciente(lista);
+
+     Fila *fila = criar_fila();
+
+    // Verificar se a fila está vazia
+    printf("Fila está vazia? %s\n", esta_vazia(fila) ? "Sim" : "Não");
+
+    // Enfileirar alguns elementos
+    enfilerar(fila, 1);
+    enfilerar(fila, 2);
+    enfilerar(fila, 3);
+
+    // Listar os elementos na fila
+    printf("Elementos na fila: ");
+    listar_fila(fila);
+
+    // Desenfileirar um elemento
+    int elemento_desenfileirado = desifilerar(fila);
+    printf("Elemento desenfileirado: %d\n", elemento_desenfileirado);
+
+    // Listar os elementos na fila após a desenfileiração
+    printf("Elementos na fila após desenfileirar: ");
+    listar_fila(fila);
+
+    // Verificar se a fila está vazia novamente
+    printf("Fila está vazia? %s\n", esta_vazia(fila) ? "Sim" : "Não");
+
+    // Liberar a memória da fila
+    liberar_fila(fila);
+ // Inicializar a semente para a geração de números aleatórios
+    srand((unsigned int)time(NULL));
+
+    // Número de consultas
+    int numero_consultas = 5;
+
+    // Criar consultas
+    Consulta **consultas = criar_consulta(numero_consultas);
+
+    // Testar consultas
+    for (int i = 0; i < numero_consultas; i++) {
+        int tipo_consulta = gen_randint(0, 1);  // 0 para consulta normal, 1 para consulta especial
+        int id_paciente = gen_randint(1000, 9999);
+
+        consultar(consultas[i], id_paciente, tipo_consulta);
+
+        printf("Consulta %d:\n", i + 1);
+        printf("ID do Paciente: %d\n", pegar_id_paciente(consultas[i]));
+        printf("Duracao da Consulta: %d minutos\n", consultas[i]->duracao);
+        printf("Consulta %s\n", consulta_disponivel(consultas[i]) ? "disponivel" : "ocupada");
+
+        if (consulta_ocupada(consultas, numero_consultas)) {
+            printf("Consulta em andamento...\n");
+            consulta_tempo_passando(consultas[i]);
+            printf("Tempo restante: %d minutos\n", consultas[i]->duracao);
+        }
+
+        printf("\n");
+    }
+
+    // Liberar a memória
+    liberar_salas(consultas, numero_consultas);
