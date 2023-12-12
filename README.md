@@ -33,7 +33,7 @@ As principais competências a serem desenvolvidas neste trabalho incluem:
 - Clone o repositório em seu Desktop:
 
 ```bash
-  git clone https://github.com/IsraelMdc/TP2---Estrutura-de-dados.git
+  git clone https://github.com/aJulinx/Trabalho-ED2.1.git
 ```
 - Após isso, execute o comando de ativação do __MAKEFILE__ no terminal de preferência:
 ```bash
@@ -42,7 +42,7 @@ As principais competências a serem desenvolvidas neste trabalho incluem:
 ### alternativa
 - passo 1 - Baixe o zip contendo os arquivos do projeto
 ```bash
-  https://github.com/IsraelMdc/TP2---Estrutura-de-dados.git
+  https://github.com/aJulinx/Trabalho-ED2.1.git
 ```
  - Passo 2 - extraia-os em um local de preferência, abra o terminal e navegue até o diretório contendo os arquivos extraidos usando o comando cd
  ```bash
