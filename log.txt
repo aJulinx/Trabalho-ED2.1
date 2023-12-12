@@ -1,0 +1,175 @@
+[1702349371] Chegada de paciente - Patient ID: 1
+[1702349371] Idade - Patient ID: 47
+[1702349371] CPF - Patient ID: 706942459
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 2
+[1702349371] Idade - Patient ID: 78
+[1702349371] CPF - Patient ID: 706942747
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 3
+[1702349371] Idade - Patient ID: 50
+[1702349371] CPF - Patient ID: 706943035
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 4
+[1702349371] Idade - Patient ID: 32
+[1702349371] CPF - Patient ID: 706943323
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 5
+[1702349371] Idade - Patient ID: 54
+[1702349371] CPF - Patient ID: 706943611
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 6
+[1702349371] Idade - Patient ID: 23
+[1702349371] CPF - Patient ID: 706960699
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 7
+[1702349371] Idade - Patient ID: 74
+[1702349371] CPF - Patient ID: 706960987
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 8
+[1702349371] Idade - Patient ID: 58
+[1702349371] CPF - Patient ID: 706961275
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 9
+[1702349371] Idade - Patient ID: 51
+[1702349371] CPF - Patient ID: 706961563
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 10
+[1702349371] Idade - Patient ID: 80
+[1702349371] CPF - Patient ID: 709432699
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 11
+[1702349371] Idade - Patient ID: 20
+[1702349371] CPF - Patient ID: 709431259
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 12
+[1702349371] Idade - Patient ID: 77
+[1702349371] CPF - Patient ID: 709430251
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 13
+[1702349371] Idade - Patient ID: 19
+[1702349371] CPF - Patient ID: 709431547
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 14
+[1702349371] Idade - Patient ID: 78
+[1702349371] CPF - Patient ID: 709431115
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 15
+[1702349371] Idade - Patient ID: 73
+[1702349371] CPF - Patient ID: 709432555
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 16
+[1702349371] Idade - Patient ID: 26
+[1702349371] CPF - Patient ID: 709429531
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 17
+[1702349371] Idade - Patient ID: 68
+[1702349371] CPF - Patient ID: 709429675
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 18
+[1702349371] Idade - Patient ID: 49
+[1702349371] CPF - Patient ID: 709429819
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 19
+[1702349371] Idade - Patient ID: 74
+[1702349371] CPF - Patient ID: 709430683
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 20
+[1702349371] Idade - Patient ID: 65
+[1702349371] CPF - Patient ID: 709430107
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 21
+[1702349371] Idade - Patient ID: 35
+[1702349371] CPF - Patient ID: 709431835
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 22
+[1702349371] Idade - Patient ID: 48
+[1702349371] CPF - Patient ID: 709432123
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 23
+[1702349371] Idade - Patient ID: 26
+[1702349371] CPF - Patient ID: 706964379
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 24
+[1702349371] Idade - Patient ID: 50
+[1702349371] CPF - Patient ID: 706964523
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 25
+[1702349371] Idade - Patient ID: 70
+[1702349371] CPF - Patient ID: 706969275
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 26
+[1702349371] Idade - Patient ID: 23
+[1702349371] CPF - Patient ID: 706964811
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 27
+[1702349371] Idade - Patient ID: 61
+[1702349371] CPF - Patient ID: 706963083
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 28
+[1702349371] Idade - Patient ID: 29
+[1702349371] CPF - Patient ID: 706965531
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 29
+[1702349371] Idade - Patient ID: 80
+[1702349371] CPF - Patient ID: 706967115
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 30
+[1702349371] Idade - Patient ID: 25
+[1702349371] CPF - Patient ID: 706967979
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 31
+[1702349371] Idade - Patient ID: 53
+[1702349371] CPF - Patient ID: 706966539
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 32
+[1702349371] Idade - Patient ID: 28
+[1702349371] CPF - Patient ID: 706965099
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 33
+[1702349371] Idade - Patient ID: 38
+[1702349371] CPF - Patient ID: 706969563
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 34
+[1702349371] Idade - Patient ID: 32
+[1702349371] CPF - Patient ID: 706966683
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente
+[1702349371] Chegada de paciente - Patient ID: 35
+[1702349371] Idade - Patient ID: 72
+[1702349371] CPF - Patient ID: 706966251
+[1702349371] Início do exame para o paciente
+[1702349371] Fim do exame para o paciente

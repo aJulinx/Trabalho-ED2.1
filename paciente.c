@@ -26,18 +26,15 @@ const char *gerar_cpf() {
 }
 
 
-int gerar_id() {
-    return rand() % 100 + 1;
-}
-
 int gerar_idade() {
     return rand() % 63 + 18;
 }
 
 PacienteNo *gerar_paciente() {
     PacienteNo *novoPaciente = (PacienteNo *)malloc(sizeof(PacienteNo));
-
-    novoPaciente->id = gerar_id();
+    
+    static int id = 1;
+    novoPaciente->id = id++;
     novoPaciente->idade = gerar_idade();
     strncpy(novoPaciente->nome, gerar_nome(), sizeof(novoPaciente->nome) - 1);
     novoPaciente->nome[sizeof(novoPaciente->nome) - 1] = '\0';
