@@ -77,7 +77,7 @@ void listar_laudo(Laudo *laudo) {
     for (LaudoNo *no = laudo->frente; no != NULL; no = no->prox) {
         printf("ID: %d, Condição: %s\n", no->id_paciente, no->condicao);
     }
-    printf("\n");
+
 }
 
 void analise_exame(LaudoNo *laudo) {
@@ -94,4 +94,16 @@ void analise_exame(LaudoNo *laudo) {
     } else if (chance > 85) {
         strcpy(laudo->condicao, "apendicite");
     }
+}
+
+int tamanho_fila_laudo(Laudo *laudo) {
+    int tamanho = 0;
+    LaudoNo *no = laudo->frente;
+
+    while (no != NULL) {
+        tamanho++;
+        no = no->prox;
+    }
+
+    return tamanho;
 }

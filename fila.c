@@ -5,7 +5,6 @@
 
 struct fila{
 
-    int tamanho;
     FilaNo *frente;
     FilaNo *tras;
 
@@ -43,7 +42,6 @@ void enfilerar(Fila *fila, int id_paciente){
     }
     
     fila->tras=no;
-    fila->tamanho++;
 }
 
 int desifilerar(Fila *fila){
@@ -78,5 +76,17 @@ void listar_fila(Fila *fila){
     for(FilaNo *no = fila->frente; no!=NULL; no = no->prox){
         printf("%d", no->id_paciente);
     }
-    printf("\n");
+
+}
+
+int tamanho_fila_exame(Fila *fila) {
+    int tamanho = 0;
+    FilaNo *no = fila->frente;
+
+    while (no != NULL) {
+        tamanho++;
+        no = no->prox;
+    }
+
+    return tamanho;
 }

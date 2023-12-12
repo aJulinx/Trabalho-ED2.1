@@ -7,7 +7,7 @@ typedef struct consulta {
 
 }Consulta;
 
-Consulta *criar_consulta(int numero);
+Consulta **criar_consulta(int numero);
 void consultar(Consulta *consulta, int id_paciente, int id_tipo);
 int consulta_disponivel(Consulta *consulta);
 int consulta_ocupada(Consulta **consulta, int numero);

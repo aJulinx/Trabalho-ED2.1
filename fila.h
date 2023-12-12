@@ -12,5 +12,6 @@ void enfilerar(Fila *fila, int id_paciente);
 int desifilerar(Fila *fila);
 void liberar_fila(Fila *fila);
 void listar_fila(Fila *fila);
+int tamanho_fila_exame(Fila *fila);
 
 #endif

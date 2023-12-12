@@ -1,11 +1,10 @@
-// consulta.c
-#include "consulta.h"'
+#include "consulta.h"
 #include <stdlib.h>
 #include <time.h>
 
 
-Consulta *criar_consulta(int numero){
-    Consulta **nova_consulta=(Consulta *)malloc(sizeof(Consulta));
+Consulta **criar_consulta(int numero){
+    Consulta **nova_consulta=(Consulta **)malloc(numero * sizeof(Consulta));
 
     for(int i=0;i<numero;i++){
         nova_consulta[i]=(Consulta *)malloc(sizeof(Consulta));
@@ -33,8 +32,10 @@ int consulta_disponivel(Consulta *consulta){
 
 int consulta_ocupada(Consulta **consulta, int numero){
     for(int i=0; i<numero;i++){
-        if(!consulta_disponivel(consulta[i]));
+        if(!consulta_disponivel(consulta[i])){
             return 1;
+        }
+    
     }
     return 0;
 }

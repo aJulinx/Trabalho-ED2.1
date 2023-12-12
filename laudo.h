@@ -13,6 +13,7 @@ int desifilerar_laudo(Laudo *laudo);
 void liberar_laudo(Laudo *laudo);
 void listar_laudo(Laudo *laudo);
 void analise_exame(LaudoNo *laudo);
+int tamanho_fila_laudo(Laudo *laudo);
 
 
 #endif

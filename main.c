@@ -1,84 +1,117 @@
+//Include dos tads e bibliotecas
 #include "paciente.h"
 #include "consulta.h"
 #include "fila.h"
 #include "laudo.h"
+#include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <Windows.h>
 
+
+//Declaração da função main
 int main() {
+    //Inicialização das listas e filas
+    PacienteLista *lista_pacientes = cria_lista();
+    Fila *fila_exame = criar_fila();
+    Laudo *fila_laudo = criar_laudo();
+    Consulta **maquina = criar_consulta(5);
+    Consulta **radiologista=criar_consulta(3);
 
-    /*//Declaração de variáveis
+    //Contador de iterações da simulação
     int contador=0;
-    int contador_pausa=0;
 
-    PacienteLista *lista_pacientes=cria_lista();
-    Fila *fila_exames = cria_fila();
-    Fila *fila_laudos = criar_fila();
-    Consulta **maquinas = criar_consulta(5);
-    Consulta **radiologistas = criar_consulta(3);
+    while(contador<43200){
 
-
-
-    while(contador<=43200){
+        //Verificação da chance do paciente chegar
         if(gen_randint(0,100)<=20){
-            PacienteNo *pacientes = gerar_paciente();
-            inserir_lista(lista_pacientes, pacientes);
+            //Criação do paciente
+            PacienteNo *pacient = gerar_paciente();
+            //Inserção na lista de pacientes
+            inserir_lista(lista_pacientes, pacient);
+            int id_paciente=pacient->id;
+            //Inserção na lsita de exames
+            enfilerar(fila_exame, id_paciente);
+        }
+
+        //For para simular as máquinas de raio-x atentendo os pacientes
+        for(int n=0;n<5;n++){
+            //Se a fila de exames não estiver vazia e tiver máquinas disponiveis
+            if(!fila_esta_vazia(fila_exame) && consulta_disponivel(maquina[n])){
+                //Remoção da fila de exames
+                int id = desifilerar(fila_exame);
+                //Consulta na máquina
+                consultar(maquina[n], id, 0);
+                continue;
+            }
+            //Enfileramento na fila para laudos
+            else if(!consulta_disponivel(maquina[n]) && consulta_tempo_passando(maquina[n]) == 0){
+                int id_paciente2=pegar_id_paciente(maquina[n]);
+                enfilerar_laudo(fila_laudo,id_paciente2, contador);
+            }
+        }
+
+        //For semelhante ao anterior, agora para simular 
+        for(int l=0;l<3;l++){
+            if(!esta_vazia_laudo(fila_laudo) && consulta_disponivel(radiologista[l])){
+                int id_paciente3 = desifilerar_laudo(fila_laudo);
+                consultar(radiologista[l], id_paciente3, 1);
+                continue;
+            }else if(!consulta_disponivel(radiologista[l])){
+                consulta_tempo_passando(radiologista[l]);
+            }
+        }
+
+        contador++;
+
+        if(contador%10==0){
+            Sleep(1000);
+            printf("Pausa de 10 segundos \n");
+
         }
     }
-*/
 
-// Testando TAD Paciente
-    PacienteLista *lista_pacientes = cria_lista();
-    for (int i = 0; i < 5; i++) {
-        PacienteNo *novo_paciente = gerar_paciente();
-        inserir_lista(lista_pacientes, novo_paciente);
-    }
-    printf("Lista de Pacientes:\n");
-    listar_pacientes(lista_pacientes);
-    liberar_paciente(lista_pacientes);
+    int exames_restantes = tamanho_fila_exame(fila_exame);
+    int laudos_restantes = tamanho_fila_laudo(fila_laudo);
 
-    // Testando TAD Consulta
-    int num_salas = 3;
-    Consulta **salas = criar_consulta(num_salas);
-    for (int i = 0; i < num_salas; i++) {
-        int id_tipo = i % 2; // Alternando entre tipos 0 e 1
-        consultar(salas[i], i + 1, id_tipo);
+    while(exames_restantes!=0 || laudos_restantes!=0){
+        if(exames_restantes!=0){
+            for(int n=0;n<5;n++){
+                if(!fila_esta_vazia(fila_exame) && consulta_disponivel(maquina[n])){
+                    int id = desifilerar(fila_exame);
+                    consultar(maquina[n], id, 0);
+                    continue;
+                }
+                else if(!consulta_disponivel(maquina[n]) && consulta_tempo_passando(maquina[n]) == 0){
+                    int id_paciente2=pegar_id_paciente(maquina[n]);
+                    enfilerar_laudo(fila_laudo,id_paciente2, contador);
+                }
+                exames_restantes--;
+            }
+        }
+        if(laudos_restantes!=0){
+            for(int l=0;l<3;l++){
+                if(!esta_vazia_laudo(fila_laudo) && consulta_disponivel(radiologista[l])){
+                    int id_paciente3 = desifilerar_laudo(fila_laudo);
+                    consultar(radiologista[l], id_paciente3, 1);
+                    continue;
+                }else if(!consulta_disponivel(radiologista[l])){
+                    consulta_tempo_passando(radiologista[l]);
+                }
+            }
+            laudos_restantes--;
+        }
+        
     }
-    printf("\nStatus das Salas de Consulta:\n");
-    for (int i = 0; i < num_salas; i++) {
-        printf("Sala %d - Paciente ID: %d, Duração: %d\n", i + 1, pegar_id_paciente(salas[i]), salas[i]->duracao);
-    }
-    liberar_salas(salas, num_salas);
 
-    // Testando TAD Fila
-    Fila *fila_espera = criar_fila();
-    for (int i = 6; i <= 10; i++) {
-        enfilerar(fila_espera, i);
-    }
-    printf("\nFila de Espera:\n");
-    listar_fila(fila_espera);
-    while (!fila_esta_vazia(fila_espera)) {
-        int paciente_atendido = desifilerar(fila_espera);
-        printf("Paciente %d atendido.\n", paciente_atendido);
-    }
-    liberar_fila(fila_espera);
-
-    // Testando TAD Laudo
-    Laudo *laudo = criar_laudo();
-    for (int i = 1; i <= 3; i++) {
-        enfilerar_laudo(laudo, i, i * 10);
-    }
-    printf("\nLaudos na Fila:\n");
-    listar_laudo(laudo);
-    while (!esta_vazia_laudo(laudo)) {
-        int id_paciente = desifilerar_laudo(laudo);
-        printf("Laudo para Paciente %d gerado.\n", id_paciente);
-    }
-    liberar_laudo(laudo);
-
-
-    return 0;
-
-}
     
 
+
+    liberar_fila(fila_exame);
+    liberar_laudo(fila_laudo);
+    liberar_salas(maquina, 5);
+    liberar_salas(radiologista, 3);
+    liberar_paciente(lista_pacientes);
+    
+    return 0;
+}
