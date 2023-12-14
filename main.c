@@ -6,7 +6,6 @@
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <Windows.h>
 
 int main() {
     // Inicialização do log
@@ -23,8 +22,8 @@ int main() {
     // Contador de iterações da simulação
     int contador = 0;
 
-    //Iterações
-    while (contador < 43200) {
+    // Iterações
+    while (contador < 1000) {
 
         // Verificação da chance do paciente chegar
         if (gen_randint(0, 100) <= 20) {
@@ -37,8 +36,12 @@ int main() {
             enfilerar(fila_exame, id_paciente);
 
             // Registro de evento: Chegada de paciente
-            log_event_patient(log, "Chegada de paciente", id_paciente);
-            log_event_patient(log, "Idade", paciente->idade);
+            char message[100];  // Ajuste o tamanho conforme necessário
+            snprintf(message, sizeof(message), "Chegada de paciente - Patient ID: %d", id_paciente);
+            log_event(log, message);
+
+            snprintf(message, sizeof(message), "Idade - Patient ID: %d", paciente->idade);
+            log_event(log, message);
         }
 
         // For para simular as máquinas de raio-x atendendo os pacientes
@@ -51,7 +54,7 @@ int main() {
                 // Consulta na máquina
                 consultar(maquina[n], id, 0);
 
-                // Registro de evento: Início do exame para o paciente
+                // Registro de evento: Fim do exame para o paciente
                 log_event_exam(log, "Fim do exame para o paciente", id);
                 continue;
             }
@@ -69,10 +72,10 @@ int main() {
         for (int l = 0; l < 3; l++) {
             if (!esta_vazia_laudo(fila_laudo) && consulta_disponivel(radiologista[l])) {
                 int id_paciente3 = desifilerar_laudo(fila_laudo);
-                 log_event_report(log, "Início do laudo para o paciente", id_paciente3, "Concluído");
+                log_event_report(log, "Início do laudo para o paciente", id_paciente3, "Concluído");
                 consultar(radiologista[l], id_paciente3, 1);
 
-                // Registro de evento: Início do laudo para o paciente
+                // Registro de evento: Fim do laudo para o paciente
                 log_event_report(log, "Fim do laudo para o paciente", id_paciente3, "Concluído");
                 continue;
             } else if (!consulta_disponivel(radiologista[l])) {
@@ -91,7 +94,6 @@ int main() {
     // Processamento final para exames e laudos restantes
     int exames_restantes = tamanho_fila_exame(fila_exame);
     int laudos_restantes = tamanho_fila_laudo(fila_laudo);
-
 
     while (exames_restantes != 0 || laudos_restantes != 0) {
         if (exames_restantes != 0) {
@@ -137,7 +139,6 @@ int main() {
     liberar_salas(maquina, 5);
     liberar_salas(radiologista, 3);
     liberar_paciente(lista_pacientes);
-
 
     // Salvando o log no arquivo
     save_log_to_file(log, "log.txt");

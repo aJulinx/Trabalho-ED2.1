@@ -5,7 +5,7 @@ typedef struct paciente_no {
     int id;
     int idade;
     char nome[99];
-    char cpf[12];
+    char cpf[15];
     struct paciente_no *prox;  // Corrigido para usar o nome completo da estrutura
 } PacienteNo;
 

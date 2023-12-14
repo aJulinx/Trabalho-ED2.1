@@ -1,0 +1,820 @@
+[1702513328] Chegada de paciente - Patient ID: 1
+[1702513328] Idade - Patient ID: 68
+[1702513328] Início do exame para o paciente - Patient ID: 1
+[1702513328] Fim do exame para o paciente - Patient ID: 1
+[1702513328] Chegada de paciente - Patient ID: 2
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 2
+[1702513328] Fim do exame para o paciente - Patient ID: 2
+[1702513328] Chegada de paciente - Patient ID: 3
+[1702513328] Idade - Patient ID: 69
+[1702513328] Início do exame para o paciente - Patient ID: 3
+[1702513328] Fim do exame para o paciente - Patient ID: 3
+[1702513328] Chegada de paciente - Patient ID: 4
+[1702513328] Idade - Patient ID: 23
+[1702513328] Início do exame para o paciente - Patient ID: 4
+[1702513328] Fim do exame para o paciente - Patient ID: 4
+[1702513328] Chegada de paciente - Patient ID: 5
+[1702513328] Idade - Patient ID: 76
+[1702513328] Início do exame para o paciente - Patient ID: 5
+[1702513328] Fim do exame para o paciente - Patient ID: 5
+[1702513328] Chegada de paciente - Patient ID: 6
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 6
+[1702513328] Fim do exame para o paciente - Patient ID: 6
+[1702513328] Chegada de paciente - Patient ID: 7
+[1702513328] Idade - Patient ID: 79
+[1702513328] Início do exame para o paciente - Patient ID: 7
+[1702513328] Fim do exame para o paciente - Patient ID: 7
+[1702513328] Chegada de paciente - Patient ID: 8
+[1702513328] Idade - Patient ID: 46
+[1702513328] Início do exame para o paciente - Patient ID: 8
+[1702513328] Fim do exame para o paciente - Patient ID: 8
+[1702513328] Chegada de paciente - Patient ID: 9
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 9
+[1702513328] Fim do exame para o paciente - Patient ID: 9
+[1702513328] Chegada de paciente - Patient ID: 10
+[1702513328] Idade - Patient ID: 47
+[1702513328] Início do exame para o paciente - Patient ID: 10
+[1702513328] Fim do exame para o paciente - Patient ID: 10
+[1702513328] Chegada de paciente - Patient ID: 11
+[1702513328] Idade - Patient ID: 21
+[1702513328] Início do exame para o paciente - Patient ID: 11
+[1702513328] Fim do exame para o paciente - Patient ID: 11
+[1702513328] Chegada de paciente - Patient ID: 12
+[1702513328] Idade - Patient ID: 63
+[1702513328] Início do exame para o paciente - Patient ID: 12
+[1702513328] Fim do exame para o paciente - Patient ID: 12
+[1702513328] Chegada de paciente - Patient ID: 13
+[1702513328] Idade - Patient ID: 37
+[1702513328] Início do exame para o paciente - Patient ID: 13
+[1702513328] Fim do exame para o paciente - Patient ID: 13
+[1702513328] Chegada de paciente - Patient ID: 14
+[1702513328] Idade - Patient ID: 76
+[1702513328] Início do exame para o paciente - Patient ID: 14
+[1702513328] Fim do exame para o paciente - Patient ID: 14
+[1702513328] Chegada de paciente - Patient ID: 15
+[1702513328] Idade - Patient ID: 76
+[1702513328] Início do exame para o paciente - Patient ID: 15
+[1702513328] Fim do exame para o paciente - Patient ID: 15
+[1702513328] Chegada de paciente - Patient ID: 16
+[1702513328] Idade - Patient ID: 36
+[1702513328] Início do exame para o paciente - Patient ID: 16
+[1702513328] Fim do exame para o paciente - Patient ID: 16
+[1702513328] Chegada de paciente - Patient ID: 17
+[1702513328] Idade - Patient ID: 73
+[1702513328] Início do exame para o paciente - Patient ID: 17
+[1702513328] Fim do exame para o paciente - Patient ID: 17
+[1702513328] Chegada de paciente - Patient ID: 18
+[1702513328] Idade - Patient ID: 79
+[1702513328] Início do exame para o paciente - Patient ID: 18
+[1702513328] Fim do exame para o paciente - Patient ID: 18
+[1702513328] Chegada de paciente - Patient ID: 19
+[1702513328] Idade - Patient ID: 48
+[1702513328] Início do exame para o paciente - Patient ID: 19
+[1702513328] Fim do exame para o paciente - Patient ID: 19
+[1702513328] Chegada de paciente - Patient ID: 20
+[1702513328] Idade - Patient ID: 64
+[1702513328] Início do exame para o paciente - Patient ID: 20
+[1702513328] Fim do exame para o paciente - Patient ID: 20
+[1702513328] Chegada de paciente - Patient ID: 21
+[1702513328] Idade - Patient ID: 37
+[1702513328] Início do exame para o paciente - Patient ID: 21
+[1702513328] Fim do exame para o paciente - Patient ID: 21
+[1702513328] Chegada de paciente - Patient ID: 22
+[1702513328] Idade - Patient ID: 71
+[1702513328] Início do exame para o paciente - Patient ID: 22
+[1702513328] Fim do exame para o paciente - Patient ID: 22
+[1702513328] Chegada de paciente - Patient ID: 23
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 23
+[1702513328] Fim do exame para o paciente - Patient ID: 23
+[1702513328] Chegada de paciente - Patient ID: 24
+[1702513328] Idade - Patient ID: 21
+[1702513328] Início do exame para o paciente - Patient ID: 24
+[1702513328] Fim do exame para o paciente - Patient ID: 24
+[1702513328] Chegada de paciente - Patient ID: 25
+[1702513328] Idade - Patient ID: 63
+[1702513328] Início do exame para o paciente - Patient ID: 25
+[1702513328] Fim do exame para o paciente - Patient ID: 25
+[1702513328] Chegada de paciente - Patient ID: 26
+[1702513328] Idade - Patient ID: 39
+[1702513328] Início do exame para o paciente - Patient ID: 26
+[1702513328] Fim do exame para o paciente - Patient ID: 26
+[1702513328] Chegada de paciente - Patient ID: 27
+[1702513328] Idade - Patient ID: 62
+[1702513328] Início do exame para o paciente - Patient ID: 27
+[1702513328] Fim do exame para o paciente - Patient ID: 27
+[1702513328] Chegada de paciente - Patient ID: 28
+[1702513328] Idade - Patient ID: 20
+[1702513328] Início do exame para o paciente - Patient ID: 28
+[1702513328] Fim do exame para o paciente - Patient ID: 28
+[1702513328] Chegada de paciente - Patient ID: 29
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 29
+[1702513328] Fim do exame para o paciente - Patient ID: 29
+[1702513328] Chegada de paciente - Patient ID: 30
+[1702513328] Idade - Patient ID: 27
+[1702513328] Início do exame para o paciente - Patient ID: 30
+[1702513328] Fim do exame para o paciente - Patient ID: 30
+[1702513328] Chegada de paciente - Patient ID: 31
+[1702513328] Idade - Patient ID: 35
+[1702513328] Início do exame para o paciente - Patient ID: 31
+[1702513328] Fim do exame para o paciente - Patient ID: 31
+[1702513328] Chegada de paciente - Patient ID: 32
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 32
+[1702513328] Fim do exame para o paciente - Patient ID: 32
+[1702513328] Chegada de paciente - Patient ID: 33
+[1702513328] Idade - Patient ID: 76
+[1702513328] Início do exame para o paciente - Patient ID: 33
+[1702513328] Fim do exame para o paciente - Patient ID: 33
+[1702513328] Chegada de paciente - Patient ID: 34
+[1702513328] Idade - Patient ID: 65
+[1702513328] Início do exame para o paciente - Patient ID: 34
+[1702513328] Fim do exame para o paciente - Patient ID: 34
+[1702513328] Chegada de paciente - Patient ID: 35
+[1702513328] Idade - Patient ID: 40
+[1702513328] Início do exame para o paciente - Patient ID: 35
+[1702513328] Fim do exame para o paciente - Patient ID: 35
+[1702513328] Chegada de paciente - Patient ID: 36
+[1702513328] Idade - Patient ID: 56
+[1702513328] Início do exame para o paciente - Patient ID: 36
+[1702513328] Fim do exame para o paciente - Patient ID: 36
+[1702513328] Chegada de paciente - Patient ID: 37
+[1702513328] Idade - Patient ID: 23
+[1702513328] Início do exame para o paciente - Patient ID: 37
+[1702513328] Fim do exame para o paciente - Patient ID: 37
+[1702513328] Chegada de paciente - Patient ID: 38
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 38
+[1702513328] Fim do exame para o paciente - Patient ID: 38
+[1702513328] Chegada de paciente - Patient ID: 39
+[1702513328] Idade - Patient ID: 66
+[1702513328] Início do exame para o paciente - Patient ID: 39
+[1702513328] Fim do exame para o paciente - Patient ID: 39
+[1702513328] Chegada de paciente - Patient ID: 40
+[1702513328] Idade - Patient ID: 53
+[1702513328] Início do exame para o paciente - Patient ID: 40
+[1702513328] Fim do exame para o paciente - Patient ID: 40
+[1702513328] Chegada de paciente - Patient ID: 41
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 41
+[1702513328] Fim do exame para o paciente - Patient ID: 41
+[1702513328] Chegada de paciente - Patient ID: 42
+[1702513328] Idade - Patient ID: 56
+[1702513328] Início do exame para o paciente - Patient ID: 42
+[1702513328] Fim do exame para o paciente - Patient ID: 42
+[1702513328] Chegada de paciente - Patient ID: 43
+[1702513328] Idade - Patient ID: 66
+[1702513328] Início do exame para o paciente - Patient ID: 43
+[1702513328] Fim do exame para o paciente - Patient ID: 43
+[1702513328] Chegada de paciente - Patient ID: 44
+[1702513328] Idade - Patient ID: 21
+[1702513328] Início do exame para o paciente - Patient ID: 44
+[1702513328] Fim do exame para o paciente - Patient ID: 44
+[1702513328] Chegada de paciente - Patient ID: 45
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 45
+[1702513328] Fim do exame para o paciente - Patient ID: 45
+[1702513328] Chegada de paciente - Patient ID: 46
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 46
+[1702513328] Fim do exame para o paciente - Patient ID: 46
+[1702513328] Chegada de paciente - Patient ID: 47
+[1702513328] Idade - Patient ID: 58
+[1702513328] Início do exame para o paciente - Patient ID: 47
+[1702513328] Fim do exame para o paciente - Patient ID: 47
+[1702513328] Chegada de paciente - Patient ID: 48
+[1702513328] Idade - Patient ID: 64
+[1702513328] Início do exame para o paciente - Patient ID: 48
+[1702513328] Fim do exame para o paciente - Patient ID: 48
+[1702513328] Chegada de paciente - Patient ID: 49
+[1702513328] Idade - Patient ID: 56
+[1702513328] Início do exame para o paciente - Patient ID: 49
+[1702513328] Fim do exame para o paciente - Patient ID: 49
+[1702513328] Chegada de paciente - Patient ID: 50
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 50
+[1702513328] Fim do exame para o paciente - Patient ID: 50
+[1702513328] Chegada de paciente - Patient ID: 51
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 51
+[1702513328] Fim do exame para o paciente - Patient ID: 51
+[1702513328] Chegada de paciente - Patient ID: 52
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 52
+[1702513328] Fim do exame para o paciente - Patient ID: 52
+[1702513328] Chegada de paciente - Patient ID: 53
+[1702513328] Idade - Patient ID: 29
+[1702513328] Início do exame para o paciente - Patient ID: 53
+[1702513328] Fim do exame para o paciente - Patient ID: 53
+[1702513328] Chegada de paciente - Patient ID: 54
+[1702513328] Idade - Patient ID: 33
+[1702513328] Início do exame para o paciente - Patient ID: 54
+[1702513328] Fim do exame para o paciente - Patient ID: 54
+[1702513328] Chegada de paciente - Patient ID: 55
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 55
+[1702513328] Fim do exame para o paciente - Patient ID: 55
+[1702513328] Chegada de paciente - Patient ID: 56
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 56
+[1702513328] Fim do exame para o paciente - Patient ID: 56
+[1702513328] Chegada de paciente - Patient ID: 57
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 57
+[1702513328] Fim do exame para o paciente - Patient ID: 57
+[1702513328] Chegada de paciente - Patient ID: 58
+[1702513328] Idade - Patient ID: 28
+[1702513328] Início do exame para o paciente - Patient ID: 58
+[1702513328] Fim do exame para o paciente - Patient ID: 58
+[1702513328] Chegada de paciente - Patient ID: 59
+[1702513328] Idade - Patient ID: 78
+[1702513328] Início do exame para o paciente - Patient ID: 59
+[1702513328] Fim do exame para o paciente - Patient ID: 59
+[1702513328] Chegada de paciente - Patient ID: 60
+[1702513328] Idade - Patient ID: 67
+[1702513328] Início do exame para o paciente - Patient ID: 60
+[1702513328] Fim do exame para o paciente - Patient ID: 60
+[1702513328] Chegada de paciente - Patient ID: 61
+[1702513328] Idade - Patient ID: 80
+[1702513328] Início do exame para o paciente - Patient ID: 61
+[1702513328] Fim do exame para o paciente - Patient ID: 61
+[1702513328] Chegada de paciente - Patient ID: 62
+[1702513328] Idade - Patient ID: 74
+[1702513328] Início do exame para o paciente - Patient ID: 62
+[1702513328] Fim do exame para o paciente - Patient ID: 62
+[1702513328] Chegada de paciente - Patient ID: 63
+[1702513328] Idade - Patient ID: 74
+[1702513328] Início do exame para o paciente - Patient ID: 63
+[1702513328] Fim do exame para o paciente - Patient ID: 63
+[1702513328] Chegada de paciente - Patient ID: 64
+[1702513328] Idade - Patient ID: 34
+[1702513328] Início do exame para o paciente - Patient ID: 64
+[1702513328] Fim do exame para o paciente - Patient ID: 64
+[1702513328] Chegada de paciente - Patient ID: 65
+[1702513328] Idade - Patient ID: 75
+[1702513328] Início do exame para o paciente - Patient ID: 65
+[1702513328] Fim do exame para o paciente - Patient ID: 65
+[1702513328] Chegada de paciente - Patient ID: 66
+[1702513328] Idade - Patient ID: 28
+[1702513328] Início do exame para o paciente - Patient ID: 66
+[1702513328] Fim do exame para o paciente - Patient ID: 66
+[1702513328] Chegada de paciente - Patient ID: 67
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 67
+[1702513328] Fim do exame para o paciente - Patient ID: 67
+[1702513328] Chegada de paciente - Patient ID: 68
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 68
+[1702513328] Fim do exame para o paciente - Patient ID: 68
+[1702513328] Chegada de paciente - Patient ID: 69
+[1702513328] Idade - Patient ID: 70
+[1702513328] Início do exame para o paciente - Patient ID: 69
+[1702513328] Fim do exame para o paciente - Patient ID: 69
+[1702513328] Chegada de paciente - Patient ID: 70
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 70
+[1702513328] Fim do exame para o paciente - Patient ID: 70
+[1702513328] Chegada de paciente - Patient ID: 71
+[1702513328] Idade - Patient ID: 32
+[1702513328] Início do exame para o paciente - Patient ID: 71
+[1702513328] Fim do exame para o paciente - Patient ID: 71
+[1702513328] Chegada de paciente - Patient ID: 72
+[1702513328] Idade - Patient ID: 37
+[1702513328] Início do exame para o paciente - Patient ID: 72
+[1702513328] Fim do exame para o paciente - Patient ID: 72
+[1702513328] Chegada de paciente - Patient ID: 73
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 73
+[1702513328] Fim do exame para o paciente - Patient ID: 73
+[1702513328] Chegada de paciente - Patient ID: 74
+[1702513328] Idade - Patient ID: 24
+[1702513328] Início do exame para o paciente - Patient ID: 74
+[1702513328] Fim do exame para o paciente - Patient ID: 74
+[1702513328] Chegada de paciente - Patient ID: 75
+[1702513328] Idade - Patient ID: 69
+[1702513328] Início do exame para o paciente - Patient ID: 75
+[1702513328] Fim do exame para o paciente - Patient ID: 75
+[1702513328] Chegada de paciente - Patient ID: 76
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 76
+[1702513328] Fim do exame para o paciente - Patient ID: 76
+[1702513328] Chegada de paciente - Patient ID: 77
+[1702513328] Idade - Patient ID: 50
+[1702513328] Início do exame para o paciente - Patient ID: 77
+[1702513328] Fim do exame para o paciente - Patient ID: 77
+[1702513328] Chegada de paciente - Patient ID: 78
+[1702513328] Idade - Patient ID: 25
+[1702513328] Início do exame para o paciente - Patient ID: 78
+[1702513328] Fim do exame para o paciente - Patient ID: 78
+[1702513328] Chegada de paciente - Patient ID: 79
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 79
+[1702513328] Fim do exame para o paciente - Patient ID: 79
+[1702513328] Chegada de paciente - Patient ID: 80
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 80
+[1702513328] Fim do exame para o paciente - Patient ID: 80
+[1702513328] Chegada de paciente - Patient ID: 81
+[1702513328] Idade - Patient ID: 69
+[1702513328] Início do exame para o paciente - Patient ID: 81
+[1702513328] Fim do exame para o paciente - Patient ID: 81
+[1702513328] Chegada de paciente - Patient ID: 82
+[1702513328] Idade - Patient ID: 63
+[1702513328] Início do exame para o paciente - Patient ID: 82
+[1702513328] Fim do exame para o paciente - Patient ID: 82
+[1702513328] Chegada de paciente - Patient ID: 83
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 83
+[1702513328] Fim do exame para o paciente - Patient ID: 83
+[1702513328] Chegada de paciente - Patient ID: 84
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 84
+[1702513328] Fim do exame para o paciente - Patient ID: 84
+[1702513328] Chegada de paciente - Patient ID: 85
+[1702513328] Idade - Patient ID: 27
+[1702513328] Início do exame para o paciente - Patient ID: 85
+[1702513328] Fim do exame para o paciente - Patient ID: 85
+[1702513328] Chegada de paciente - Patient ID: 86
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 86
+[1702513328] Fim do exame para o paciente - Patient ID: 86
+[1702513328] Chegada de paciente - Patient ID: 87
+[1702513328] Idade - Patient ID: 52
+[1702513328] Início do exame para o paciente - Patient ID: 87
+[1702513328] Fim do exame para o paciente - Patient ID: 87
+[1702513328] Chegada de paciente - Patient ID: 88
+[1702513328] Idade - Patient ID: 55
+[1702513328] Início do exame para o paciente - Patient ID: 88
+[1702513328] Fim do exame para o paciente - Patient ID: 88
+[1702513328] Chegada de paciente - Patient ID: 89
+[1702513328] Idade - Patient ID: 47
+[1702513328] Início do exame para o paciente - Patient ID: 89
+[1702513328] Fim do exame para o paciente - Patient ID: 89
+[1702513328] Chegada de paciente - Patient ID: 90
+[1702513328] Idade - Patient ID: 53
+[1702513328] Início do exame para o paciente - Patient ID: 90
+[1702513328] Fim do exame para o paciente - Patient ID: 90
+[1702513328] Chegada de paciente - Patient ID: 91
+[1702513328] Idade - Patient ID: 69
+[1702513328] Início do exame para o paciente - Patient ID: 91
+[1702513328] Fim do exame para o paciente - Patient ID: 91
+[1702513328] Chegada de paciente - Patient ID: 92
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 92
+[1702513328] Fim do exame para o paciente - Patient ID: 92
+[1702513328] Chegada de paciente - Patient ID: 93
+[1702513328] Idade - Patient ID: 46
+[1702513328] Início do exame para o paciente - Patient ID: 93
+[1702513328] Fim do exame para o paciente - Patient ID: 93
+[1702513328] Chegada de paciente - Patient ID: 94
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 94
+[1702513328] Fim do exame para o paciente - Patient ID: 94
+[1702513328] Chegada de paciente - Patient ID: 95
+[1702513328] Idade - Patient ID: 20
+[1702513328] Início do exame para o paciente - Patient ID: 95
+[1702513328] Fim do exame para o paciente - Patient ID: 95
+[1702513328] Chegada de paciente - Patient ID: 96
+[1702513328] Idade - Patient ID: 60
+[1702513328] Início do exame para o paciente - Patient ID: 96
+[1702513328] Fim do exame para o paciente - Patient ID: 96
+[1702513328] Chegada de paciente - Patient ID: 97
+[1702513328] Idade - Patient ID: 70
+[1702513328] Início do exame para o paciente - Patient ID: 97
+[1702513328] Fim do exame para o paciente - Patient ID: 97
+[1702513328] Chegada de paciente - Patient ID: 98
+[1702513328] Idade - Patient ID: 40
+[1702513328] Início do exame para o paciente - Patient ID: 98
+[1702513328] Fim do exame para o paciente - Patient ID: 98
+[1702513328] Chegada de paciente - Patient ID: 99
+[1702513328] Idade - Patient ID: 62
+[1702513328] Início do exame para o paciente - Patient ID: 99
+[1702513328] Fim do exame para o paciente - Patient ID: 99
+[1702513328] Chegada de paciente - Patient ID: 100
+[1702513328] Idade - Patient ID: 22
+[1702513328] Início do exame para o paciente - Patient ID: 100
+[1702513328] Fim do exame para o paciente - Patient ID: 100
+[1702513328] Chegada de paciente - Patient ID: 101
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 101
+[1702513328] Fim do exame para o paciente - Patient ID: 101
+[1702513328] Chegada de paciente - Patient ID: 102
+[1702513328] Idade - Patient ID: 51
+[1702513328] Início do exame para o paciente - Patient ID: 102
+[1702513328] Fim do exame para o paciente - Patient ID: 102
+[1702513328] Chegada de paciente - Patient ID: 103
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 103
+[1702513328] Fim do exame para o paciente - Patient ID: 103
+[1702513328] Chegada de paciente - Patient ID: 104
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 104
+[1702513328] Fim do exame para o paciente - Patient ID: 104
+[1702513328] Chegada de paciente - Patient ID: 105
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 105
+[1702513328] Fim do exame para o paciente - Patient ID: 105
+[1702513328] Chegada de paciente - Patient ID: 106
+[1702513328] Idade - Patient ID: 25
+[1702513328] Início do exame para o paciente - Patient ID: 106
+[1702513328] Fim do exame para o paciente - Patient ID: 106
+[1702513328] Chegada de paciente - Patient ID: 107
+[1702513328] Idade - Patient ID: 27
+[1702513328] Início do exame para o paciente - Patient ID: 107
+[1702513328] Fim do exame para o paciente - Patient ID: 107
+[1702513328] Chegada de paciente - Patient ID: 108
+[1702513328] Idade - Patient ID: 22
+[1702513328] Início do exame para o paciente - Patient ID: 108
+[1702513328] Fim do exame para o paciente - Patient ID: 108
+[1702513328] Chegada de paciente - Patient ID: 109
+[1702513328] Idade - Patient ID: 80
+[1702513328] Início do exame para o paciente - Patient ID: 109
+[1702513328] Fim do exame para o paciente - Patient ID: 109
+[1702513328] Chegada de paciente - Patient ID: 110
+[1702513328] Idade - Patient ID: 24
+[1702513328] Início do exame para o paciente - Patient ID: 110
+[1702513328] Fim do exame para o paciente - Patient ID: 110
+[1702513328] Chegada de paciente - Patient ID: 111
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 111
+[1702513328] Fim do exame para o paciente - Patient ID: 111
+[1702513328] Chegada de paciente - Patient ID: 112
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 112
+[1702513328] Fim do exame para o paciente - Patient ID: 112
+[1702513328] Chegada de paciente - Patient ID: 113
+[1702513328] Idade - Patient ID: 28
+[1702513328] Início do exame para o paciente - Patient ID: 113
+[1702513328] Fim do exame para o paciente - Patient ID: 113
+[1702513328] Chegada de paciente - Patient ID: 114
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 114
+[1702513328] Fim do exame para o paciente - Patient ID: 114
+[1702513328] Chegada de paciente - Patient ID: 115
+[1702513328] Idade - Patient ID: 39
+[1702513328] Início do exame para o paciente - Patient ID: 115
+[1702513328] Fim do exame para o paciente - Patient ID: 115
+[1702513328] Chegada de paciente - Patient ID: 116
+[1702513328] Idade - Patient ID: 78
+[1702513328] Início do exame para o paciente - Patient ID: 116
+[1702513328] Fim do exame para o paciente - Patient ID: 116
+[1702513328] Chegada de paciente - Patient ID: 117
+[1702513328] Idade - Patient ID: 20
+[1702513328] Início do exame para o paciente - Patient ID: 117
+[1702513328] Fim do exame para o paciente - Patient ID: 117
+[1702513328] Chegada de paciente - Patient ID: 118
+[1702513328] Idade - Patient ID: 23
+[1702513328] Início do exame para o paciente - Patient ID: 118
+[1702513328] Fim do exame para o paciente - Patient ID: 118
+[1702513328] Chegada de paciente - Patient ID: 119
+[1702513328] Idade - Patient ID: 38
+[1702513328] Início do exame para o paciente - Patient ID: 119
+[1702513328] Fim do exame para o paciente - Patient ID: 119
+[1702513328] Chegada de paciente - Patient ID: 120
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 120
+[1702513328] Fim do exame para o paciente - Patient ID: 120
+[1702513328] Chegada de paciente - Patient ID: 121
+[1702513328] Idade - Patient ID: 48
+[1702513328] Início do exame para o paciente - Patient ID: 121
+[1702513328] Fim do exame para o paciente - Patient ID: 121
+[1702513328] Chegada de paciente - Patient ID: 122
+[1702513328] Idade - Patient ID: 28
+[1702513328] Início do exame para o paciente - Patient ID: 122
+[1702513328] Fim do exame para o paciente - Patient ID: 122
+[1702513328] Chegada de paciente - Patient ID: 123
+[1702513328] Idade - Patient ID: 52
+[1702513328] Início do exame para o paciente - Patient ID: 123
+[1702513328] Fim do exame para o paciente - Patient ID: 123
+[1702513328] Chegada de paciente - Patient ID: 124
+[1702513328] Idade - Patient ID: 35
+[1702513328] Início do exame para o paciente - Patient ID: 124
+[1702513328] Fim do exame para o paciente - Patient ID: 124
+[1702513328] Chegada de paciente - Patient ID: 125
+[1702513328] Idade - Patient ID: 47
+[1702513328] Início do exame para o paciente - Patient ID: 125
+[1702513328] Fim do exame para o paciente - Patient ID: 125
+[1702513328] Chegada de paciente - Patient ID: 126
+[1702513328] Idade - Patient ID: 77
+[1702513328] Início do exame para o paciente - Patient ID: 126
+[1702513328] Fim do exame para o paciente - Patient ID: 126
+[1702513328] Chegada de paciente - Patient ID: 127
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 127
+[1702513328] Fim do exame para o paciente - Patient ID: 127
+[1702513328] Chegada de paciente - Patient ID: 128
+[1702513328] Idade - Patient ID: 46
+[1702513328] Início do exame para o paciente - Patient ID: 128
+[1702513328] Fim do exame para o paciente - Patient ID: 128
+[1702513328] Chegada de paciente - Patient ID: 129
+[1702513328] Idade - Patient ID: 74
+[1702513328] Início do exame para o paciente - Patient ID: 129
+[1702513328] Fim do exame para o paciente - Patient ID: 129
+[1702513328] Chegada de paciente - Patient ID: 130
+[1702513328] Idade - Patient ID: 80
+[1702513328] Início do exame para o paciente - Patient ID: 130
+[1702513328] Fim do exame para o paciente - Patient ID: 130
+[1702513328] Chegada de paciente - Patient ID: 131
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 131
+[1702513328] Fim do exame para o paciente - Patient ID: 131
+[1702513328] Chegada de paciente - Patient ID: 132
+[1702513328] Idade - Patient ID: 34
+[1702513328] Início do exame para o paciente - Patient ID: 132
+[1702513328] Fim do exame para o paciente - Patient ID: 132
+[1702513328] Chegada de paciente - Patient ID: 133
+[1702513328] Idade - Patient ID: 38
+[1702513328] Início do exame para o paciente - Patient ID: 133
+[1702513328] Fim do exame para o paciente - Patient ID: 133
+[1702513328] Chegada de paciente - Patient ID: 134
+[1702513328] Idade - Patient ID: 73
+[1702513328] Início do exame para o paciente - Patient ID: 134
+[1702513328] Fim do exame para o paciente - Patient ID: 134
+[1702513328] Chegada de paciente - Patient ID: 135
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 135
+[1702513328] Fim do exame para o paciente - Patient ID: 135
+[1702513328] Chegada de paciente - Patient ID: 136
+[1702513328] Idade - Patient ID: 18
+[1702513328] Início do exame para o paciente - Patient ID: 136
+[1702513328] Fim do exame para o paciente - Patient ID: 136
+[1702513328] Chegada de paciente - Patient ID: 137
+[1702513328] Idade - Patient ID: 44
+[1702513328] Início do exame para o paciente - Patient ID: 137
+[1702513328] Fim do exame para o paciente - Patient ID: 137
+[1702513328] Chegada de paciente - Patient ID: 138
+[1702513328] Idade - Patient ID: 73
+[1702513328] Início do exame para o paciente - Patient ID: 138
+[1702513328] Fim do exame para o paciente - Patient ID: 138
+[1702513328] Chegada de paciente - Patient ID: 139
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 139
+[1702513328] Fim do exame para o paciente - Patient ID: 139
+[1702513328] Chegada de paciente - Patient ID: 140
+[1702513328] Idade - Patient ID: 50
+[1702513328] Início do exame para o paciente - Patient ID: 140
+[1702513328] Fim do exame para o paciente - Patient ID: 140
+[1702513328] Chegada de paciente - Patient ID: 141
+[1702513328] Idade - Patient ID: 59
+[1702513328] Início do exame para o paciente - Patient ID: 141
+[1702513328] Fim do exame para o paciente - Patient ID: 141
+[1702513328] Chegada de paciente - Patient ID: 142
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 142
+[1702513328] Fim do exame para o paciente - Patient ID: 142
+[1702513328] Chegada de paciente - Patient ID: 143
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 143
+[1702513328] Fim do exame para o paciente - Patient ID: 143
+[1702513328] Chegada de paciente - Patient ID: 144
+[1702513328] Idade - Patient ID: 71
+[1702513328] Início do exame para o paciente - Patient ID: 144
+[1702513328] Fim do exame para o paciente - Patient ID: 144
+[1702513328] Chegada de paciente - Patient ID: 145
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 145
+[1702513328] Fim do exame para o paciente - Patient ID: 145
+[1702513328] Chegada de paciente - Patient ID: 146
+[1702513328] Idade - Patient ID: 67
+[1702513328] Início do exame para o paciente - Patient ID: 146
+[1702513328] Fim do exame para o paciente - Patient ID: 146
+[1702513328] Chegada de paciente - Patient ID: 147
+[1702513328] Idade - Patient ID: 40
+[1702513328] Início do exame para o paciente - Patient ID: 147
+[1702513328] Fim do exame para o paciente - Patient ID: 147
+[1702513328] Chegada de paciente - Patient ID: 148
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 148
+[1702513328] Fim do exame para o paciente - Patient ID: 148
+[1702513328] Chegada de paciente - Patient ID: 149
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 149
+[1702513328] Fim do exame para o paciente - Patient ID: 149
+[1702513328] Chegada de paciente - Patient ID: 150
+[1702513328] Idade - Patient ID: 70
+[1702513328] Início do exame para o paciente - Patient ID: 150
+[1702513328] Fim do exame para o paciente - Patient ID: 150
+[1702513328] Chegada de paciente - Patient ID: 151
+[1702513328] Idade - Patient ID: 66
+[1702513328] Início do exame para o paciente - Patient ID: 151
+[1702513328] Fim do exame para o paciente - Patient ID: 151
+[1702513328] Chegada de paciente - Patient ID: 152
+[1702513328] Idade - Patient ID: 54
+[1702513328] Início do exame para o paciente - Patient ID: 152
+[1702513328] Fim do exame para o paciente - Patient ID: 152
+[1702513328] Chegada de paciente - Patient ID: 153
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 153
+[1702513328] Fim do exame para o paciente - Patient ID: 153
+[1702513328] Chegada de paciente - Patient ID: 154
+[1702513328] Idade - Patient ID: 60
+[1702513328] Início do exame para o paciente - Patient ID: 154
+[1702513328] Fim do exame para o paciente - Patient ID: 154
+[1702513328] Chegada de paciente - Patient ID: 155
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 155
+[1702513328] Fim do exame para o paciente - Patient ID: 155
+[1702513328] Chegada de paciente - Patient ID: 156
+[1702513328] Idade - Patient ID: 78
+[1702513328] Início do exame para o paciente - Patient ID: 156
+[1702513328] Fim do exame para o paciente - Patient ID: 156
+[1702513328] Chegada de paciente - Patient ID: 157
+[1702513328] Idade - Patient ID: 67
+[1702513328] Início do exame para o paciente - Patient ID: 157
+[1702513328] Fim do exame para o paciente - Patient ID: 157
+[1702513328] Chegada de paciente - Patient ID: 158
+[1702513328] Idade - Patient ID: 37
+[1702513328] Início do exame para o paciente - Patient ID: 158
+[1702513328] Fim do exame para o paciente - Patient ID: 158
+[1702513328] Chegada de paciente - Patient ID: 159
+[1702513328] Idade - Patient ID: 43
+[1702513328] Início do exame para o paciente - Patient ID: 159
+[1702513328] Fim do exame para o paciente - Patient ID: 159
+[1702513328] Chegada de paciente - Patient ID: 160
+[1702513328] Idade - Patient ID: 65
+[1702513328] Início do exame para o paciente - Patient ID: 160
+[1702513328] Fim do exame para o paciente - Patient ID: 160
+[1702513328] Chegada de paciente - Patient ID: 161
+[1702513328] Idade - Patient ID: 28
+[1702513328] Início do exame para o paciente - Patient ID: 161
+[1702513328] Fim do exame para o paciente - Patient ID: 161
+[1702513328] Chegada de paciente - Patient ID: 162
+[1702513328] Idade - Patient ID: 61
+[1702513328] Início do exame para o paciente - Patient ID: 162
+[1702513328] Fim do exame para o paciente - Patient ID: 162
+[1702513328] Chegada de paciente - Patient ID: 163
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 163
+[1702513328] Fim do exame para o paciente - Patient ID: 163
+[1702513328] Chegada de paciente - Patient ID: 164
+[1702513328] Idade - Patient ID: 26
+[1702513328] Início do exame para o paciente - Patient ID: 164
+[1702513328] Fim do exame para o paciente - Patient ID: 164
+[1702513328] Chegada de paciente - Patient ID: 165
+[1702513328] Idade - Patient ID: 21
+[1702513328] Início do exame para o paciente - Patient ID: 165
+[1702513328] Fim do exame para o paciente - Patient ID: 165
+[1702513328] Chegada de paciente - Patient ID: 166
+[1702513328] Idade - Patient ID: 65
+[1702513328] Início do exame para o paciente - Patient ID: 166
+[1702513328] Fim do exame para o paciente - Patient ID: 166
+[1702513328] Chegada de paciente - Patient ID: 167
+[1702513328] Idade - Patient ID: 73
+[1702513328] Início do exame para o paciente - Patient ID: 167
+[1702513328] Fim do exame para o paciente - Patient ID: 167
+[1702513328] Chegada de paciente - Patient ID: 168
+[1702513328] Idade - Patient ID: 67
+[1702513328] Início do exame para o paciente - Patient ID: 168
+[1702513328] Fim do exame para o paciente - Patient ID: 168
+[1702513328] Chegada de paciente - Patient ID: 169
+[1702513328] Idade - Patient ID: 53
+[1702513328] Início do exame para o paciente - Patient ID: 169
+[1702513328] Fim do exame para o paciente - Patient ID: 169
+[1702513328] Chegada de paciente - Patient ID: 170
+[1702513328] Idade - Patient ID: 20
+[1702513328] Início do exame para o paciente - Patient ID: 170
+[1702513328] Fim do exame para o paciente - Patient ID: 170
+[1702513328] Chegada de paciente - Patient ID: 171
+[1702513328] Idade - Patient ID: 73
+[1702513328] Início do exame para o paciente - Patient ID: 171
+[1702513328] Fim do exame para o paciente - Patient ID: 171
+[1702513328] Chegada de paciente - Patient ID: 172
+[1702513328] Idade - Patient ID: 75
+[1702513328] Início do exame para o paciente - Patient ID: 172
+[1702513328] Fim do exame para o paciente - Patient ID: 172
+[1702513328] Chegada de paciente - Patient ID: 173
+[1702513328] Idade - Patient ID: 38
+[1702513328] Início do exame para o paciente - Patient ID: 173
+[1702513328] Fim do exame para o paciente - Patient ID: 173
+[1702513328] Chegada de paciente - Patient ID: 174
+[1702513328] Idade - Patient ID: 80
+[1702513328] Início do exame para o paciente - Patient ID: 174
+[1702513328] Fim do exame para o paciente - Patient ID: 174
+[1702513328] Chegada de paciente - Patient ID: 175
+[1702513328] Idade - Patient ID: 48
+[1702513328] Início do exame para o paciente - Patient ID: 175
+[1702513328] Fim do exame para o paciente - Patient ID: 175
+[1702513328] Chegada de paciente - Patient ID: 176
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 176
+[1702513328] Fim do exame para o paciente - Patient ID: 176
+[1702513328] Chegada de paciente - Patient ID: 177
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 177
+[1702513328] Fim do exame para o paciente - Patient ID: 177
+[1702513328] Chegada de paciente - Patient ID: 178
+[1702513328] Idade - Patient ID: 38
+[1702513328] Início do exame para o paciente - Patient ID: 178
+[1702513328] Fim do exame para o paciente - Patient ID: 178
+[1702513328] Chegada de paciente - Patient ID: 179
+[1702513328] Idade - Patient ID: 35
+[1702513328] Início do exame para o paciente - Patient ID: 179
+[1702513328] Fim do exame para o paciente - Patient ID: 179
+[1702513328] Chegada de paciente - Patient ID: 180
+[1702513328] Idade - Patient ID: 68
+[1702513328] Início do exame para o paciente - Patient ID: 180
+[1702513328] Fim do exame para o paciente - Patient ID: 180
+[1702513328] Chegada de paciente - Patient ID: 181
+[1702513328] Idade - Patient ID: 63
+[1702513328] Início do exame para o paciente - Patient ID: 181
+[1702513328] Fim do exame para o paciente - Patient ID: 181
+[1702513328] Chegada de paciente - Patient ID: 182
+[1702513328] Idade - Patient ID: 25
+[1702513328] Início do exame para o paciente - Patient ID: 182
+[1702513328] Fim do exame para o paciente - Patient ID: 182
+[1702513328] Chegada de paciente - Patient ID: 183
+[1702513328] Idade - Patient ID: 38
+[1702513328] Início do exame para o paciente - Patient ID: 183
+[1702513328] Fim do exame para o paciente - Patient ID: 183
+[1702513328] Chegada de paciente - Patient ID: 184
+[1702513328] Idade - Patient ID: 29
+[1702513328] Início do exame para o paciente - Patient ID: 184
+[1702513328] Fim do exame para o paciente - Patient ID: 184
+[1702513328] Chegada de paciente - Patient ID: 185
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 185
+[1702513328] Fim do exame para o paciente - Patient ID: 185
+[1702513328] Chegada de paciente - Patient ID: 186
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 186
+[1702513328] Fim do exame para o paciente - Patient ID: 186
+[1702513328] Chegada de paciente - Patient ID: 187
+[1702513328] Idade - Patient ID: 63
+[1702513328] Início do exame para o paciente - Patient ID: 187
+[1702513328] Fim do exame para o paciente - Patient ID: 187
+[1702513328] Chegada de paciente - Patient ID: 188
+[1702513328] Idade - Patient ID: 23
+[1702513328] Início do exame para o paciente - Patient ID: 188
+[1702513328] Fim do exame para o paciente - Patient ID: 188
+[1702513328] Chegada de paciente - Patient ID: 189
+[1702513328] Idade - Patient ID: 22
+[1702513328] Início do exame para o paciente - Patient ID: 189
+[1702513328] Fim do exame para o paciente - Patient ID: 189
+[1702513328] Chegada de paciente - Patient ID: 190
+[1702513328] Idade - Patient ID: 41
+[1702513328] Início do exame para o paciente - Patient ID: 190
+[1702513328] Fim do exame para o paciente - Patient ID: 190
+[1702513328] Chegada de paciente - Patient ID: 191
+[1702513328] Idade - Patient ID: 78
+[1702513328] Início do exame para o paciente - Patient ID: 191
+[1702513328] Fim do exame para o paciente - Patient ID: 191
+[1702513328] Chegada de paciente - Patient ID: 192
+[1702513328] Idade - Patient ID: 48
+[1702513328] Início do exame para o paciente - Patient ID: 192
+[1702513328] Fim do exame para o paciente - Patient ID: 192
+[1702513328] Chegada de paciente - Patient ID: 193
+[1702513328] Idade - Patient ID: 29
+[1702513328] Início do exame para o paciente - Patient ID: 193
+[1702513328] Fim do exame para o paciente - Patient ID: 193
+[1702513328] Chegada de paciente - Patient ID: 194
+[1702513328] Idade - Patient ID: 46
+[1702513328] Início do exame para o paciente - Patient ID: 194
+[1702513328] Fim do exame para o paciente - Patient ID: 194
+[1702513328] Chegada de paciente - Patient ID: 195
+[1702513328] Idade - Patient ID: 64
+[1702513328] Início do exame para o paciente - Patient ID: 195
+[1702513328] Fim do exame para o paciente - Patient ID: 195
+[1702513328] Chegada de paciente - Patient ID: 196
+[1702513328] Idade - Patient ID: 74
+[1702513328] Início do exame para o paciente - Patient ID: 196
+[1702513328] Fim do exame para o paciente - Patient ID: 196
+[1702513328] Chegada de paciente - Patient ID: 197
+[1702513328] Idade - Patient ID: 31
+[1702513328] Início do exame para o paciente - Patient ID: 197
+[1702513328] Fim do exame para o paciente - Patient ID: 197
+[1702513328] Chegada de paciente - Patient ID: 198
+[1702513328] Idade - Patient ID: 80
+[1702513328] Início do exame para o paciente - Patient ID: 198
+[1702513328] Fim do exame para o paciente - Patient ID: 198
+[1702513328] Chegada de paciente - Patient ID: 199
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 199
+[1702513328] Fim do exame para o paciente - Patient ID: 199
+[1702513328] Chegada de paciente - Patient ID: 200
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 200
+[1702513328] Fim do exame para o paciente - Patient ID: 200
+[1702513328] Chegada de paciente - Patient ID: 201
+[1702513328] Idade - Patient ID: 45
+[1702513328] Início do exame para o paciente - Patient ID: 201
+[1702513328] Fim do exame para o paciente - Patient ID: 201
+[1702513328] Chegada de paciente - Patient ID: 202
+[1702513328] Idade - Patient ID: 53
+[1702513328] Início do exame para o paciente - Patient ID: 202
+[1702513328] Fim do exame para o paciente - Patient ID: 202
+[1702513328] Chegada de paciente - Patient ID: 203
+[1702513328] Idade - Patient ID: 51
+[1702513328] Início do exame para o paciente - Patient ID: 203
+[1702513328] Fim do exame para o paciente - Patient ID: 203
+[1702513328] Chegada de paciente - Patient ID: 204
+[1702513328] Idade - Patient ID: 75
+[1702513328] Início do exame para o paciente - Patient ID: 204
+[1702513328] Fim do exame para o paciente - Patient ID: 204
+[1702513328] Chegada de paciente - Patient ID: 205
+[1702513328] Idade - Patient ID: 72
+[1702513328] Início do exame para o paciente - Patient ID: 205
+[1702513328] Fim do exame para o paciente - Patient ID: 205

@@ -19,8 +19,9 @@ const char *gerar_cpf() {
     int bloco3 = rand() % 1000;
 
 
-    static char cpf[12];
+    static char cpf[15];
     snprintf(cpf, sizeof(cpf), "%03d.%03d.%03d-01", bloco1, bloco2, bloco3);
+
 
     return cpf;
 }
